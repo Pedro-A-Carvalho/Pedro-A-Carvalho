@@ -44,7 +44,6 @@ I'm currently studying content related to backend development with node and foll
 </a>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009208&size=33&center=true&vCenter=true&width=840&height=80&lines=Staying+focused+and+dedication;is+the+vision+for+a+bright+future)](https://git.io/typing-svg)
 
 <!--
 **Pedro-A-Carvalho/Pedro-A-Carvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
