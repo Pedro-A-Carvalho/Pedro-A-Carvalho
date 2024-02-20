@@ -7,9 +7,7 @@ I'm graduated in Analise e Desenvolvimento de Sistemas at [FASM](https://www.san
 I'm currently studying content related to backend development with node and follow updates from the entire javascript and python universe
 
 ## 🔭 Hard-Skills
-<div align="center">
-  <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="200px" />
-</div>
+
 
   - #### Frontend
     ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
