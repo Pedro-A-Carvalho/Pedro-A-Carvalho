@@ -1,10 +1,10 @@
 # Hey, I'm Pedro Carvalho!
 
-Frontend Instructor and Developer.
+Backend Developer.
 
-I'm graduated in Analise e Desenvolvimento de Sistemas at [Cruzeiro do Sul](https://www.cruzeirodosul.edu.br/)
+I'm graduated in Analise e Desenvolvimento de Sistemas at [FASM](https://www.santamarcelina.edu.br/faculdade/muriae/)
 
-I'm currently study content related to mobile development with react-native and follow updates from the entire react/next.js universe
+I'm currently studying content related to backend development with node and follow updates from the entire javascript and python universe
 
 ## 🔭 Hard-Skills
 <div align="center">
