@@ -38,7 +38,7 @@ I'm currently studying content related to backend development with node and foll
 
   - #### Contact
     <br>  
-    <a href="[https://www.linkedin.com/in/pedro-almeida-carvalho]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="https://www.linkedin.com/in/pedro-almeida-carvalho"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:cont.pacarvalho@gmail.com"><img alt="LinkedIn" href="mailto:cont.pacarvalho@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
