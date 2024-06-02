@@ -2,7 +2,9 @@
 
 Backend Developer.
 
-I'm graduated in Analise e Desenvolvimento de Sistemas at [FASM](https://www.santamarcelina.edu.br/faculdade/muriae/)
+I graduated in Analise e Desenvolvimento de Sistemas at [FASM](https://www.santamarcelina.edu.br/faculdade/muriae/)
+<br/>
+I'm also curently at the FullStack course of [Trybe](https://www.betrybe.com) where I'm polishing my skills at Front-end, Back-end and Computer Science
 
 I'm currently studying content related to backend development with node and follow updates from the entire javascript and python universe
 
